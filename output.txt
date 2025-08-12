@@ -1,0 +1,384 @@
+12:58:50.968178 In make
+12:58:50.968834 In make
+12:58:50.969336 In make
+Test (3A): initial election ...
+12:58:52.471943 in ticker before requestvote
+12:58:52.473937 in ticker before requestvote
+12:58:52.475432 in ticker before requestvote
+12:58:52.474207 Yaha in requestServer vote
+12:58:52.475721 Yaha in requestServer vote
+12:58:52.477209 Yaha in requestServer vote
+12:58:52.478933 In handleLeader
+12:58:52.479794 Sone ke pehle bkl
+12:58:52.479882 In DilkiDhadkanSambhal
+12:58:52.479894 In DilkiDhadkanSambhal
+12:58:52.480825 In sendAppendEntries if success
+12:58:52.481602 In sendAppendEntries: After send appedn entry 0 0 1
+12:58:52.481821 In sendAppendEntries if success
+12:58:52.482491 In sendAppendEntries: After send appedn entry 2 0 1
+12:58:52.482569 [1]: In commit checker
+12:58:52.483161 [1]: In commit checker
+12:58:53.661211 in ticker before requestvote
+12:58:53.662055 in ticker before requestvote
+12:58:53.662799 in ticker before requestvote
+12:58:53.663528 Yaha in requestServer vote
+12:58:53.662211 Yaha in requestServer vote
+12:58:53.662912 Yaha in requestServer vote
+12:58:53.664856 In handleLeader
+12:58:53.666131 Sone ke pehle bkl
+12:58:53.666276 In DilkiDhadkanSambhal
+12:58:53.666298 In DilkiDhadkanSambhal
+12:58:53.667835 In sendAppendEntries if success
+12:58:53.669231 In sendAppendEntries: After send appedn entry 1 0 1
+12:58:53.669685 In sendAppendEntries if success
+12:58:53.670791 In sendAppendEntries: After send appedn entry 2 0 1
+12:58:53.670920 [0]: In commit checker
+12:58:53.672196 [0]: In commit checker
+warning: term changed even though there were no failures  ... Passed --   4.1  3    6    1428    0
+12:58:55.029832 In make
+12:58:55.030420 In make
+12:58:55.031227 In make
+Test (3A): election after network failure ...
+12:58:55.058278 in ticker before requestvote
+12:58:55.058854 in ticker before requestvote
+12:58:55.059187 in ticker before requestvote
+12:58:55.059566 Yaha in requestServer vote
+12:58:55.058978 Yaha in requestServer vote
+12:58:55.059303 Yaha in requestServer vote
+12:58:56.034579 in ticker before requestvote
+12:58:56.036408 in ticker before requestvote
+12:58:56.037891 in ticker before requestvote
+12:58:56.036679 Yaha in requestServer vote
+12:58:56.038087 Yaha in requestServer vote
+12:58:56.039560 Yaha in requestServer vote
+12:58:56.341744 in ticker before requestvote
+12:58:56.342924 in ticker before requestvote
+12:58:56.344091 in ticker before requestvote
+12:58:56.343153 Yaha in requestServer vote
+12:58:56.344221 Yaha in requestServer vote
+12:58:56.345195 Yaha in requestServer vote
+12:58:56.347755 In handleLeader
+12:58:56.348646 Sone ke pehle bkl
+12:58:56.348837 In DilkiDhadkanSambhal
+12:58:56.348878 In DilkiDhadkanSambhal
+12:58:56.350898 In sendAppendEntries if success
+12:58:56.352473 In sendAppendEntries: After send appedn entry 1 0 1
+12:58:56.353150 In sendAppendEntries if success
+12:58:56.353886 In sendAppendEntries: After send appedn entry 2 0 1
+12:58:56.354040 [0]: In commit checker
+12:58:56.355221 [0]: In commit checker
+12:58:57.746723 in ticker before requestvote
+12:58:57.748545 in ticker before requestvote
+12:58:57.749997 in ticker before requestvote
+12:58:57.748833 Yaha in requestServer vote
+12:58:57.750296 Yaha in requestServer vote
+12:58:57.751697 Yaha in requestServer vote
+12:58:57.755503 In handleLeader
+12:58:57.756965 Sone ke pehle bkl
+12:58:57.757102 In DilkiDhadkanSambhal
+12:58:57.757151 In DilkiDhadkanSambhal
+12:58:57.761958 In sendAppendEntries if success
+12:58:57.762952 In sendAppendEntries: After send appedn entry 1 0 1
+12:58:57.764332 [2]: In commit checker
+12:58:59.760311 in ticker before requestvote
+12:58:59.761361 in ticker before requestvote
+12:58:59.762397 in ticker before requestvote
+12:58:59.763232 Yaha in requestServer vote
+12:58:59.761501 Yaha in requestServer vote
+12:58:59.762528 Yaha in requestServer vote
+12:59:01.055935 in ticker before requestvote
+12:59:01.057647 in ticker before requestvote
+12:59:01.059023 in ticker before requestvote
+12:59:01.057837 Yaha in requestServer vote
+12:59:01.059235 Yaha in requestServer vote
+12:59:01.060715 Yaha in requestServer vote
+12:59:01.062776 In handleLeader
+12:59:01.063399 Sone ke pehle bkl
+12:59:01.063472 In DilkiDhadkanSambhal
+12:59:01.063495 In DilkiDhadkanSambhal
+12:59:01.064551 In sendAppendEntries if success
+12:59:01.065222 In sendAppendEntries: After send appedn entry 0 0 1
+12:59:01.065673 [1]: In commit checker
+  ... Passed --   6.7  3   13    2460    0
+12:59:01.686890 In make
+12:59:01.687289 In make
+12:59:01.687593 In make
+12:59:01.688015 In make
+12:59:01.688385 In make
+12:59:01.688798 In make
+12:59:01.689197 In make
+Test (3A): multiple elections ...
+12:59:03.065834 in ticker before requestvote
+12:59:03.066330 in ticker before requestvote
+12:59:03.066624 in ticker before requestvote
+12:59:03.066893 in ticker before requestvote
+12:59:03.067184 in ticker before requestvote
+12:59:03.067481 in ticker before requestvote
+12:59:03.066401 Yaha in requestServer vote
+12:59:03.066707 Yaha in requestServer vote
+12:59:03.066948 Yaha in requestServer vote
+12:59:03.067245 Yaha in requestServer vote
+12:59:03.067519 Yaha in requestServer vote
+12:59:03.067846 in ticker before requestvote
+12:59:03.067867 Yaha in requestServer vote
+12:59:03.069643 Yaha in requestServer vote
+12:59:03.069856 In handleLeader
+12:59:03.070529 Sone ke pehle bkl
+12:59:03.070588 In DilkiDhadkanSambhal
+12:59:03.071351 In sendAppendEntries if success
+12:59:03.071643 In sendAppendEntries: After send appedn entry 2 0 1
+12:59:03.070599 In DilkiDhadkanSambhal
+12:59:03.070603 In DilkiDhadkanSambhal
+12:59:03.070608 In DilkiDhadkanSambhal
+12:59:03.070612 In DilkiDhadkanSambhal
+12:59:03.070644 In DilkiDhadkanSambhal
+12:59:03.072085 [4]: In commit checker
+12:59:03.074144 In sendAppendEntries if success
+12:59:03.075025 In sendAppendEntries if success
+12:59:03.075642 In sendAppendEntries: After send appedn entry 1 0 1
+12:59:03.075129 In sendAppendEntries: After send appedn entry 0 0 1
+12:59:03.075687 In sendAppendEntries if success
+12:59:03.076526 In sendAppendEntries: After send appedn entry 6 0 1
+12:59:03.076608 In sendAppendEntries if success
+12:59:03.077131 In sendAppendEntries: After send appedn entry 3 0 1
+12:59:03.077170 In sendAppendEntries if success
+12:59:03.077819 In sendAppendEntries: After send appedn entry 5 0 1
+12:59:03.077877 [4]: In commit checker
+12:59:03.078793 [4]: In commit checker
+12:59:03.079473 [4]: In commit checker
+12:59:03.079876 [4]: In commit checker
+12:59:03.080294 [4]: In commit checker
+12:59:04.378775 in ticker before requestvote
+12:59:04.380437 in ticker before requestvote
+12:59:04.380867 in ticker before requestvote
+12:59:04.381160 in ticker before requestvote
+12:59:04.381460 in ticker before requestvote
+12:59:04.381681 in ticker before requestvote
+12:59:04.382059 in ticker before requestvote
+12:59:04.381057 Yaha in requestServer vote
+12:59:04.381559 Yaha in requestServer vote
+12:59:04.380507 Yaha in requestServer vote
+12:59:04.381174 Yaha in requestServer vote
+12:59:04.381744 Yaha in requestServer vote
+12:59:04.382098 Yaha in requestServer vote
+12:59:04.384231 In handleLeader
+12:59:04.382370 Yaha in requestServer vote
+12:59:04.384498 Sone ke pehle bkl
+12:59:04.384511 In DilkiDhadkanSambhal
+12:59:04.384519 In DilkiDhadkanSambhal
+12:59:04.384523 In DilkiDhadkanSambhal
+12:59:04.384521 In DilkiDhadkanSambhal
+12:59:04.384527 In DilkiDhadkanSambhal
+12:59:04.384527 In DilkiDhadkanSambhal
+12:59:04.385237 In sendAppendEntries if success
+12:59:04.386643 In sendAppendEntries: After send appedn entry 6 0 1
+12:59:04.387323 In sendAppendEntries if success
+12:59:04.387902 In sendAppendEntries: After send appedn entry 5 0 1
+12:59:04.388198 [3]: In commit checker
+12:59:04.388487 In sendAppendEntries if success
+12:59:04.388693 In sendAppendEntries: After send appedn entry 0 0 1
+12:59:04.388767 In sendAppendEntries if success
+12:59:04.389267 In sendAppendEntries: After send appedn entry 2 0 1
+12:59:04.389297 [3]: In commit checker
+12:59:04.389807 [3]: In commit checker
+12:59:04.390057 [3]: In commit checker
+12:59:04.480458 in ticker before requestvote
+12:59:04.481027 in ticker before requestvote
+12:59:04.481973 in ticker before requestvote
+12:59:04.482300 in ticker before requestvote
+12:59:04.481070 Yaha in requestServer vote
+12:59:04.482026 Yaha in requestServer vote
+12:59:04.482338 Yaha in requestServer vote
+12:59:04.485526 in ticker before requestvote
+12:59:04.485532 Yaha in requestServer vote
+12:59:04.488822 in ticker before requestvote
+12:59:04.489408 in ticker before requestvote
+12:59:04.488836 Yaha in requestServer vote
+12:59:04.489463 Yaha in requestServer vote
+12:59:04.489785 Yaha in requestServer vote
+12:59:05.484466 in ticker before requestvote
+12:59:05.485617 in ticker before requestvote
+12:59:05.486207 in ticker before requestvote
+12:59:05.486737 in ticker before requestvote
+12:59:05.485766 Yaha in requestServer vote
+12:59:05.486335 Yaha in requestServer vote
+12:59:05.486842 Yaha in requestServer vote
+12:59:05.487396 in ticker before requestvote
+12:59:05.487401 Yaha in requestServer vote
+12:59:05.489420 in ticker before requestvote
+12:59:05.490048 in ticker before requestvote
+12:59:05.489428 Yaha in requestServer vote
+12:59:05.490123 Yaha in requestServer vote
+12:59:05.490631 Yaha in requestServer vote
+12:59:05.971996 in ticker before requestvote
+12:59:05.972878 in ticker before requestvote
+12:59:05.973775 in ticker before requestvote
+12:59:05.974603 in ticker before requestvote
+12:59:05.973066 Yaha in requestServer vote
+12:59:05.973976 Yaha in requestServer vote
+12:59:05.974792 Yaha in requestServer vote
+12:59:05.975548 in ticker before requestvote
+12:59:05.975555 Yaha in requestServer vote
+12:59:05.978651 in ticker before requestvote
+12:59:05.979561 in ticker before requestvote
+12:59:05.978680 Yaha in requestServer vote
+12:59:05.979711 Yaha in requestServer vote
+12:59:05.980474 Yaha in requestServer vote
+12:59:06.007947 in ticker before requestvote
+12:59:06.008799 in ticker before requestvote
+12:59:06.009515 in ticker before requestvote
+12:59:06.010230 in ticker before requestvote
+12:59:06.008944 Yaha in requestServer vote
+12:59:06.009660 Yaha in requestServer vote
+12:59:06.010340 Yaha in requestServer vote
+12:59:06.011007 in ticker before requestvote
+12:59:06.011012 Yaha in requestServer vote
+12:59:06.013355 in ticker before requestvote
+12:59:06.014467 in ticker before requestvote
+12:59:06.013360 Yaha in requestServer vote
+12:59:06.014581 Yaha in requestServer vote
+12:59:06.015311 Yaha in requestServer vote
+12:59:06.125033 in ticker before requestvote
+12:59:06.126696 in ticker before requestvote
+12:59:06.128003 in ticker before requestvote
+12:59:06.126942 Yaha in requestServer vote
+12:59:06.128295 Yaha in requestServer vote
+12:59:06.129497 in ticker before requestvote
+12:59:06.129508 Yaha in requestServer vote
+12:59:06.132919 in ticker before requestvote
+12:59:06.135586 in ticker before requestvote
+12:59:06.132975 Yaha in requestServer vote
+12:59:06.135822 Yaha in requestServer vote
+12:59:06.137168 in ticker before requestvote
+12:59:06.137180 Yaha in requestServer vote
+12:59:06.141415 Yaha in requestServer vote
+12:59:06.144182 In handleLeader
+12:59:06.145517 Sone ke pehle bkl
+12:59:06.145721 In DilkiDhadkanSambhal
+12:59:06.145757 In DilkiDhadkanSambhal
+12:59:06.145756 In DilkiDhadkanSambhal
+12:59:06.145772 In DilkiDhadkanSambhal
+12:59:06.145789 In DilkiDhadkanSambhal
+12:59:06.145798 In DilkiDhadkanSambhal
+12:59:06.148891 In sendAppendEntries if success
+12:59:06.155878 In sendAppendEntries: After send appedn entry 6 0 1
+12:59:06.156751 In sendAppendEntries if success
+12:59:06.157884 [5]: In commit checker
+12:59:06.158623 In sendAppendEntries if success
+12:59:06.159411 In sendAppendEntries: After send appedn entry 4 0 1
+12:59:06.158142 In sendAppendEntries: After send appedn entry 3 0 1
+12:59:06.159532 In sendAppendEntries if success
+12:59:06.162179 In sendAppendEntries: After send appedn entry 1 0 1
+12:59:06.162324 [5]: In commit checker
+12:59:06.164117 [5]: In commit checker
+12:59:06.164801 [5]: In commit checker
+12:59:07.370280 in ticker before requestvote
+12:59:07.371329 in ticker before requestvote
+12:59:07.372234 in ticker before requestvote
+12:59:07.373200 in ticker before requestvote
+12:59:07.371501 Yaha in requestServer vote
+12:59:07.372386 Yaha in requestServer vote
+12:59:07.373368 Yaha in requestServer vote
+12:59:07.374282 in ticker before requestvote
+12:59:07.374287 Yaha in requestServer vote
+12:59:07.378028 in ticker before requestvote
+12:59:07.379230 in ticker before requestvote
+12:59:07.378036 Yaha in requestServer vote
+12:59:07.379346 Yaha in requestServer vote
+12:59:07.380337 Yaha in requestServer vote
+12:59:07.383412 In handleLeader
+12:59:07.384177 Sone ke pehle bkl
+12:59:07.384339 In DilkiDhadkanSambhal
+12:59:07.386326 In sendAppendEntries if success
+12:59:07.384489 In DilkiDhadkanSambhal
+12:59:07.384502 In DilkiDhadkanSambhal
+12:59:07.384488 In DilkiDhadkanSambhal
+12:59:07.384510 In DilkiDhadkanSambhal
+12:59:07.384517 In DilkiDhadkanSambhal
+12:59:07.387229 In sendAppendEntries: After send appedn entry 3 0 1
+12:59:07.389203 In sendAppendEntries if success
+12:59:07.391873 In sendAppendEntries: After send appedn entry 4 0 1
+12:59:07.392402 [2]: In commit checker
+12:59:07.393135 [2]: In commit checker
+12:59:07.393835 In sendAppendEntries if success
+12:59:07.394546 In sendAppendEntries: After send appedn entry 6 0 1
+12:59:07.394981 [2]: In commit checker
+12:59:07.544154 in ticker before requestvote
+12:59:07.544533 in ticker before requestvote
+12:59:07.544815 in ticker before requestvote
+12:59:07.545113 in ticker before requestvote
+12:59:07.545400 in ticker before requestvote
+12:59:07.545692 in ticker before requestvote
+12:59:07.544601 Yaha in requestServer vote
+12:59:07.544871 Yaha in requestServer vote
+12:59:07.545159 Yaha in requestServer vote
+12:59:07.545451 Yaha in requestServer vote
+12:59:07.545732 Yaha in requestServer vote
+12:59:07.546009 in ticker before requestvote
+12:59:07.546011 Yaha in requestServer vote
+12:59:07.547913 Yaha in requestServer vote
+12:59:08.162977 in ticker before requestvote
+12:59:08.164302 in ticker before requestvote
+12:59:08.165614 in ticker before requestvote
+12:59:08.164545 Yaha in requestServer vote
+12:59:08.165839 Yaha in requestServer vote
+12:59:08.166669 in ticker before requestvote
+12:59:08.167829 in ticker before requestvote
+12:59:08.166671 Yaha in requestServer vote
+12:59:08.167920 Yaha in requestServer vote
+12:59:08.168330 in ticker before requestvote
+12:59:08.169610 in ticker before requestvote
+12:59:08.168333 Yaha in requestServer vote
+12:59:08.169706 Yaha in requestServer vote
+12:59:08.170366 Yaha in requestServer vote
+12:59:08.596060 in ticker before requestvote
+12:59:08.597099 in ticker before requestvote
+12:59:08.597840 in ticker before requestvote
+12:59:08.598562 in ticker before requestvote
+12:59:08.597247 Yaha in requestServer vote
+12:59:08.597957 Yaha in requestServer vote
+12:59:08.598672 Yaha in requestServer vote
+12:59:08.599572 in ticker before requestvote
+12:59:08.599579 Yaha in requestServer vote
+12:59:08.602484 in ticker before requestvote
+12:59:08.603635 in ticker before requestvote
+12:59:08.602488 Yaha in requestServer vote
+12:59:08.603776 Yaha in requestServer vote
+12:59:08.604592 Yaha in requestServer vote
+12:59:08.606373 In handleLeader
+12:59:08.607253 In DilkiDhadkanSambhal
+12:59:08.607379 Sone ke pehle bkl
+12:59:08.607385 In DilkiDhadkanSambhal
+12:59:08.607400 In DilkiDhadkanSambhal
+12:59:08.607409 In DilkiDhadkanSambhal
+12:59:08.607416 In DilkiDhadkanSambhal
+12:59:08.607424 In DilkiDhadkanSambhal
+12:59:08.610274 In sendAppendEntries if success
+12:59:08.614954 In sendAppendEntries: After send appedn entry 6 0 1
+12:59:08.615308 In sendAppendEntries if success
+12:59:08.616239 In sendAppendEntries: After send appedn entry 2 0 1
+12:59:08.616358 In sendAppendEntries if success
+12:59:08.617544 In sendAppendEntries: After send appedn entry 4 0 1
+12:59:08.617655 [0]: In commit checker
+12:59:08.618792 In sendAppendEntries if success
+12:59:08.619275 In sendAppendEntries: After send appedn entry 5 0 1
+12:59:08.619359 [0]: In commit checker
+12:59:08.620405 [0]: In commit checker
+12:59:08.620961 [0]: In commit checker
+12:59:09.040949 in ticker before requestvote
+12:59:09.041757 in ticker before requestvote
+12:59:09.042387 in ticker before requestvote
+12:59:09.042812 in ticker before requestvote
+12:59:09.043396 in ticker before requestvote
+12:59:09.041888 Yaha in requestServer vote
+12:59:09.042482 Yaha in requestServer vote
+12:59:09.042878 Yaha in requestServer vote
+12:59:09.043526 Yaha in requestServer vote
+12:59:09.046648 in ticker before requestvote
+12:59:09.046655 Yaha in requestServer vote
+12:59:09.050227 in ticker before requestvote
+12:59:09.050253 Yaha in requestServer vote
+12:59:09.051467 Yaha in requestServer vote
+  ... Passed --   7.5  7   99   15798    0
+PASS
+ok  	cs351/a3-raft	18.189s
